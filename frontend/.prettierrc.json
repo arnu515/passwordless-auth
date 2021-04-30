@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/prettierrc",
+  "plugins": ["prettier-plugin-svelte"],
+  "svelteStrictMode": true,
+  "tabWidth": 2,
+  "printWidth": 82,
+  "semi": true,
+  "jsxSingleQuote": true,
+  "trailingComma": "none",
+  "bracketSpacing": true,
+  "endOfLine": "lf"
+}
